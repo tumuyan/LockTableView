@@ -2,6 +2,7 @@
 自定义表格,可锁定双向表头,自适应列宽,自适应行高,下拉刷新,上拉加载,快速集成<br>
 ## 效果展示
 
+![image](https://github.com/tumuyan/LockTableView/blob/master/show.jpg)
 ![image](https://github.com/RmondJone/LockTableView/blob/master/show.gif)
 
 ## 工程集成说明
